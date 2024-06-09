@@ -1,0 +1,35 @@
+body {
+    font-family: sans-serif;
+    background-color: darkcyan;
+    margin: 15px;
+}
+
+.name1 img, .name2 img,.name3 img {
+    border-radius: 50%;
+    width: 150px;
+}
+
+a {
+   text-decoration: none; 
+   font-size: 20px;
+   color: white;
+   background-color: chocolate;
+   border-radius: 15px;
+   padding: 10px;
+   margin: 10px;
+   box-shadow: 5px 5px 5px 0 #9F5F60;
+}
+
+p {
+    font-size: 20px;
+}
+
+#sh {
+    background-color:rgb(121, 49, 23);
+    box-shadow: 5px 5px 5px 0 #663334;
+}
+
+main img {
+    border-radius: 20px;
+    width: 300px;
+}
